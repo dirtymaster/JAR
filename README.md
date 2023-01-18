@@ -1,4 +1,4 @@
-# Day 04 – Java Bootcamp
+# Day 04
 ### JAR
 
 *Takeaways: Today you will learn to create library archives and use external libraries*
