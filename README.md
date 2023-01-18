@@ -1,5 +1,4 @@
-# Day 04
-### JAR
+# JAR
 
 *Takeaways: Today you will learn to create library archives and use external libraries*
 
