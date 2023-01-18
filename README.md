@@ -1,7 +1,5 @@
 # JAR
 
-*Takeaways: Today you will learn to create library archives and use external libraries*
-
 ### Exercise 00 – Packages
 
 Exercise 00: Packages ||
